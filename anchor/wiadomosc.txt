@@ -1,0 +1,3 @@
+Anchor to element html który umożliwia tworzenia hiperłączy.
+Niezbędne jest użycie atrybutu href który określa cel tego łącza np.
+e-mail, adres URL, podstronę, plik, czy identyfikator elementu na stronie.
